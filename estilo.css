@@ -1,0 +1,34 @@
+body{
+    background-image:url(assets/logo\ momo\ youtube.jpg) ;
+}
+.cabezon{
+    background-color: #3430A8;
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    background-color: #17102B;
+    text-align: left;
+    width: 66rem;
+    margin: 0px 
+}
+.paton{
+    background-color: #3430A8;
+}
+.titulos{
+    color: #FF304F;
+    margin: 0px;
+}
+.parrafos{
+    color: #A9C8FF;
+    margin: 0px;
+}
+.txtnormal{
+    color: #fff;
+    margin: 0px;
+    
+}
+.logos{
+    height: 4rem;
+    width: 6rem;
+}
