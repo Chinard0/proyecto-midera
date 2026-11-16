@@ -9,8 +9,9 @@ body{
 main{
     background-color: #17102B;
     text-align: left;
-    width: 66rem;
-    margin: 0px 
+    width: 55.67rem;
+    margin: 0px auto;
+    height: 100vh;
 }
 .paton{
     background-color: #3430A8;
@@ -18,6 +19,7 @@ main{
 .titulos{
     color: #FF304F;
     margin: 0px;
+    border-top: 1px; 
 }
 .parrafos{
     color: #A9C8FF;
@@ -26,9 +28,25 @@ main{
 .txtnormal{
     color: #fff;
     margin: 0px;
-    
+}
+.imgs-grandes{
+    width: 50rem;
+}
+.imgs{
+    width: 16rem;
 }
 .logos{
-    height: 4rem;
-    width: 6rem;
+    width: 3rem;
+}
+.nav-cuadros{
+    display: flex;
+}
+.cuadros{
+    background-color: #27203B;
+}
+#main-index{
+    height: 82vh;
+}
+#main-logros{
+    height: 170vh;
 }
