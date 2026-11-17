@@ -40,13 +40,21 @@ main{
 }
 .nav-cuadros{
     display: flex;
+    justify-content: space-around;
 }
 .cuadros{
     background-color: #27203B;
+    border-radius: 1rem;
 }
 #main-index{
     height: 82vh;
 }
 #main-logros{
-    height: 170vh;
+    height: 110vh;
+}
+#antartida{
+    width: 14rem;
+}
+#momo-CA{
+    width: 40rem;
 }
