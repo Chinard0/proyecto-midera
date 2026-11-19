@@ -11,7 +11,7 @@ body {
 main {
     background-color: #17102B;
     text-align: left;
-    width: 60%;
+    width: 50%;
     margin: 0px auto;
     height: 100vh;
 }
@@ -45,16 +45,20 @@ main {
     margin-bottom: 0px;
 }
 
+.contenedor{
+    display: flex;
+}
+
 .imgs-grandes {
-    width: 45rem;
+    width: 94%;
 }
 
 .imgs-mid {
-    width: 32rem;
+    width: 90%;
 }
 
 .imgs {
-    width: 16rem;
+    width: 100%;;
 }
 
 .logos {
@@ -74,16 +78,15 @@ main {
 
 .sectioncuadros {
     display: flex;
-    flex-wrap:wrap ;
-    margin: 0.1rem;
     justify-content: space-around;
+    width: 100%;
+    flex-wrap: wrap;
 }
 
 .cuadros {
     background-color: #27203B;
     border-radius: 1rem;
-    display: flex;
-    flex-direction: column;
+    width: 30%;
 }
 
 .txtdescripcion {
@@ -91,20 +94,29 @@ main {
     text-align: left;
 }
 
+.tarjetas{
+    width: 40%;
+}
+/* memes memes quietos */
+.tarjetitas{
+    width: 47%;
+}
 #main-index {
-    height: 100vh;
+    height: auto;
 }
 
 #main-biografia {
-    height: 205vh;
+    height: auto;
 }
 
 #main-memes {
-    height: 207vh;
+    height: auto;
 }
-
-.imgprincipal{
-width: 95%;
+#main-logros{
+height: auto;
+}
+.imgprincipal {
+    width: 95%;
 }
 
 #antartida {
