@@ -48,7 +48,7 @@ main {
 }
 
 .imgs-grandes {
-    width: 50rem;
+    width: 45rem;
 }
 
 .imgs-mid {
@@ -76,7 +76,7 @@ main {
 
 .sectioncuadros {
     display: flex;
-    flex-wrap:wrap;
+    flex-wrap:wrap ;
     margin: 0.1rem;
     justify-content: space-around;
 }
@@ -94,15 +94,15 @@ main {
 }
 
 #main-index {
-    height: 82vh;
+    height: 92vh;
 }
 
 #main-biografia {
-    height: 205vh;
+    height: 255vh;
 }
 
 #main-memes {
-    height: 235vh;
+    height: 257vh;
 }
 
 #main-logros {
