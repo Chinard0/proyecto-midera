@@ -1,60 +1,90 @@
-body{
-    background-image:url(assets/logo\ momo\ youtube.jpg) ;
+body {
+    background-image: url(assets/logo\ momo\ youtube.jpg);
 }
-.cabezon{
+
+.cabezon {
     background-color: #3430A8;
     display: flex;
     justify-content: space-between;
-} 
-main{
+}
+
+main {
     background-color: #17102B;
     text-align: left;
     width: 55.67rem;
     margin: 0px auto;
-    height: 100vh;
+    height: 10vh;
 }
-.paton{
+
+.paton {
     background-color: #3430A8;
 }
-.titulos{
+
+.titulos {
     color: #FF304F;
-    margin: 0px;
-    border-top: 1px; 
+    padding-top: 0.5rem;
+    padding-bottom: 0.3rem;
+    margin-left: 0.5rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
 }
-.parrafos{
+
+.parrafos {
     color: #A9C8FF;
-    margin: 0px;
+    padding-bottom: 0.5rem;
+    margin-left: 1.5rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
-.txtnormal{
+
+.txtnormal {
     color: #fff;
-    margin: 0px;
+    padding-bottom: 0.5rem;
+    margin-left: 1rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
 }
-.imgs-grandes{
+
+.imgs-grandes {
     width: 50rem;
 }
-.imgs{
+
+.imgs-mid{
+    width: 32rem;
+}
+.imgs {
     width: 16rem;
 }
-.logos{
+
+.logos {
     width: 3rem;
 }
-.nav-cuadros{
+
+.nav-cuadros {
     display: flex;
+    margin: 0rem auto;
     justify-content: space-around;
 }
-.cuadros{
+
+.cuadros {
     background-color: #27203B;
     border-radius: 1rem;
 }
-#main-index{
+
+#main-index {
     height: 82vh;
 }
-#main-logros{
-    height: 110vh;
+
+#main-logros {
+    height: 138vh;
 }
-#antartida{
+
+#antartida {
     width: 14rem;
 }
-#momo-CA{
+
+#momo-CA {
     width: 40rem;
 }
