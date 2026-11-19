@@ -64,25 +64,25 @@ main {
 .logos {
     width: 3rem;
 }
-
+/* section cuadros para organizar y contener los cuadros */
 .nav-cuadros {
     display: flex;
     margin: 0rem auto;
     justify-content: space-around;
 }
-
+/* class nav enlaces para ordenar los enlaces a las redes sociales del MOMO */
 .nav-enlaces {
     display: flex;
     justify-content: center;
 }
-
+/* section cuadros para organizar y contener los cuadros */
 .sectioncuadros {
     display: flex;
     justify-content: space-around;
     width: 100%;
     flex-wrap: wrap;
 }
-
+/* cuadros para divs con enlaces en forma de imagenes */
 .cuadros {
     background-color: #27203B;
     border-radius: 1rem;
