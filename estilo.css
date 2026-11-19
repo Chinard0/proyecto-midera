@@ -11,9 +11,9 @@ body {
 main {
     background-color: #17102B;
     text-align: left;
-    width: 55.67rem;
+    width: 60%;
     margin: 0px auto;
-    height: 10vh;
+    height: 100vh;
 }
 
 .paton {
@@ -43,8 +43,6 @@ main {
     margin-left: 1rem;
     margin-top: 0px;
     margin-bottom: 0px;
-
-
 }
 
 .imgs-grandes {
@@ -94,7 +92,7 @@ main {
 }
 
 #main-index {
-    height: 75vh;
+    height: 100vh;
 }
 
 #main-biografia {
@@ -105,14 +103,10 @@ main {
     height: 207vh;
 }
 
-#main-logros {
-    height: 212vh;
+.imgprincipal{
+width: 95%;
 }
 
 #antartida {
     width: 14rem;
-}
-
-#momo-CA {
-    width: 40rem;
 }
