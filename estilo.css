@@ -51,9 +51,10 @@ main {
     width: 50rem;
 }
 
-.imgs-mid{
+.imgs-mid {
     width: 32rem;
 }
+
 .imgs {
     width: 16rem;
 }
@@ -68,17 +69,44 @@ main {
     justify-content: space-around;
 }
 
+.nav-enlaces {
+    display: flex;
+    justify-content: center;
+}
+
+.sectioncuadros {
+    display: flex;
+    flex-wrap:wrap;
+    margin: 0.1rem;
+    justify-content: space-around;
+}
+
 .cuadros {
     background-color: #27203B;
     border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.txtdescripcion {
+    color: #fff;
+    text-align: left;
 }
 
 #main-index {
     height: 82vh;
 }
 
+#main-biografia {
+    height: 205vh;
+}
+
+#main-memes {
+    height: 235vh;
+}
+
 #main-logros {
-    height: 138vh;
+    height: 275vh;
 }
 
 #antartida {
